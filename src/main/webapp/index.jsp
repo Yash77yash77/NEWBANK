@@ -16,7 +16,7 @@
 
 <br><br>
 
-<marquee>
+<marquee style="color:red;">
 <h1>ICICiiiiiiiiiiiiiiii is Hacked!!        :) </h2>
 </marquee>
 
