@@ -6,18 +6,18 @@
 <br><br>
 
 <marquee>
-<h1>Dena Bank is Hacked!!        :) </h2>
+<h1>All Bank is Hacked!!        :) </h2>
 </marquee>
 
 <br><br>
 <marquee>
-<h1>Dena Bank is Hacked!!        :) </h2>
+<h1>bongulo bank Bank is Hacked!!        :) </h2>
 </marquee>
 
 <br><br>
 
 <marquee>
-<h1>Dena Bank is Hacked!!        :) </h2>
+<h1>ICICiiiiiiiiiiiiiiii is Hacked!!        :) </h2>
 </marquee>
 
 
